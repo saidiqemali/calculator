@@ -1,0 +1,10 @@
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.csprojAssemblyReference.cache
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.Form1.resources
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.Properties.Resources.resources
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.csproj.GenerateResource.cache
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.csproj.CoreCompileInputs.cache
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\bin\Debug\calculaor.exe.config
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\bin\Debug\calculaor.exe
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\bin\Debug\calculaor.pdb
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.exe
+C:\Users\Schnupperlehre\source\repos\calculaor\calculaor\obj\Debug\calculaor.pdb
